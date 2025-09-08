@@ -29,7 +29,7 @@ This repository is part of my GitHub Desktop tutorial journey 🚀.
 ---
 
 ## 📫 Connect with Me  
-- 📧 Email: yourname@email.com  
+- 📧 Email: balagtasjosemari_bsit@plmun.edu.ph  
 - 🌐 GitHub: [balagtasjosemaribsit-byte](https://github.com/balagtasjosemaribsit-byte)  
 
 ---
